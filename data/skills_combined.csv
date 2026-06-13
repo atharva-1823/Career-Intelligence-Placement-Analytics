@@ -1,0 +1,152 @@
+skill_id,skill_name
+1,AWS Fundamentals
+2,Active Directory
+3,Agile
+4,Agile Methodology
+5,Agile/Scrum
+6,Analytical Skills
+7,Analytical Thinking
+8,Angular/React basics
+9,Application Monitoring
+10,Application Monitoring Tools
+11,Attention to Detail
+12,Azure Data Factory basics
+13,Azure Data basics
+14,Azure Fundamentals
+15,BFSI domain awareness
+16,Banking Application awareness
+17,Banking Domain basics
+18,Banking Domain knowledge
+19,Basic DSA
+20,Basic Networking
+21,Basic Networking (TCP/IP
+22,Basic SQL
+23,Business Analysis
+24,Business Communication
+25,Charts
+26,Charts)
+27,Cloud Basics (AWS)
+28,Cloud Fundamentals
+29,Cloud Fundamentals (AWS/Azure basics)
+30,Cloud Fundamentals (AWS/Azure)
+31,Cloud basics
+32,Communication Skills
+33,Communication Skills (English)
+34,Computer Networks
+35,Confluence
+36,Core Java
+37,Core Java or Python
+38,DAX
+39,DBMS
+40,DHCP)
+41,DNS
+42,DNS)
+43,DSA
+44,DSA basics
+45,Data Entry
+46,Data Governance basics
+47,Data Profiling
+48,Data Structures
+49,Data Structures & Algorithms
+50,Data Validation
+51,Data Visualization basics
+52,Documentation
+53,ERP basics (SAP)
+54,ETL basics
+55,ETL concepts
+56,Excel
+57,Excel (Pivot Tables
+58,Excel (Pivot Tables)
+59,Excel (VLOOKUP
+60,Excel (advanced)
+61,Flask/FastAPI basics
+62,Git
+63,Healthcare domain knowledge
+64,Hibernate
+65,Hypothesis Testing
+66,IBM Cloud Pak basics
+67,ITIL
+68,ITIL Foundation
+69,ITSM / Ticketing
+70,ITSM Basics
+71,Insurance domain awareness
+72,JIRA
+73,Java
+74,Java basics
+75,Java or C++
+76,Java or Python
+77,Jira
+78,Linux
+79,Linux Basics
+80,Linux basics
+81,Logical Reasoning
+82,MIS Reporting
+83,MS Access
+84,MS Excel
+85,MS Excel (Advanced)
+86,MS Excel (Pivot Tables
+87,MS Office
+88,MS Office 365
+89,Machine Learning basics
+90,Macros/VBA
+91,Matplotlib
+92,Matplotlib)
+93,Maven
+94,Networking Fundamentals
+95,NumPy)
+96,OOP
+97,OOP Concepts
+98,OOP Principles
+99,Oracle DB
+100,Oracle/SAP basics
+101,PivotTable
+102,Postman
+103,Power BI
+104,Power BI basics
+105,Power BI or Tableau
+106,Power Query
+107,PowerPoint
+108,Probability
+109,Problem Solving
+110,Process Mapping
+111,Python
+112,Python (Pandas
+113,Python (Pandas)
+114,Python basics
+115,Python or Java
+116,REST API Basics
+117,REST APIs
+118,React or Angular basics
+119,Remote Desktop Tools
+120,Requirement Analysis
+121,Requirement Gathering
+122,SAP awareness
+123,SQL
+124,SQL basics
+125,Seaborn/Matplotlib
+126,Selenium
+127,ServiceNow
+128,Shell Scripting
+129,Spark basics
+130,Spring Boot
+131,Spring Framework
+132,Stakeholder Management
+133,Statistical Analysis
+134,Statistics
+135,Statistics basics
+136,Tableau
+137,Teamwork
+138,TestNG
+139,Ticketing
+140,Ticketing Systems
+141,Ticketing Tools
+142,Ticketing Tools (ServiceNow / Remedy)
+143,Unix/Linux
+144,VBA
+145,VLOOKUP)
+146,VPN troubleshooting
+147,Verbal Communication
+148,Virtualization basics
+149,Visio
+150,Windows OS
+151,Windows OS Troubleshooting
